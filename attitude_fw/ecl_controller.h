@@ -48,7 +48,7 @@
 
 #pragma once
 
-#include <ecl.h>
+#include <lib/ecl/ecl.h>
 
 struct ECL_ControlData {
 	float roll;
